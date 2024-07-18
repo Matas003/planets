@@ -1,4 +1,7 @@
 It is so a planet!
+<<<<<<< HEAD
 Change was made, debuging merge.
 Another change.
 I want this to be here!
+=======
+>>>>>>> fca213b45dbd0226a7004ef7e8838a4e4169f095
