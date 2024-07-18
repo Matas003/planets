@@ -1,2 +1,3 @@
 It is so a planet!
 Change was made, debuging merge.
+Another change.
